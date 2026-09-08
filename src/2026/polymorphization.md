@@ -3,10 +3,11 @@
 
 | Metadata            |                                                                    |
 | :-----------------  | ------------------------------------------------------------------ |
-| Contact    | @camelid                                                           |
+| Contact             | @camelid                                                           |
 | Status              | Accepted                                                           |
 | [compiler] champion | @camelid                                                           |
 | Tracking issue      | [rust-lang/goals#758]                                              |
+| Roadmap             | Fast Builds                                                        |
 
 ## Summary
 
