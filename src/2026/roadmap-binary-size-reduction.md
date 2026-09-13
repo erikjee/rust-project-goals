@@ -38,7 +38,6 @@ A language that makes size reduction as easy to achieve as performance maximisat
 | Alternate std implementations | Future | Enable transparent use of size-optimised implementations of features in the standard library when size optimisations are enabled |
 | Overhaul size flags | Future | Add proper analysis in the compiler for size-sensitive optimisations, instead of the current approach of having a small handful of peephole optimisations that relate to size |
 | More dynamic linking | Future | Expand the guarantees of some extern ABI to allow dynamically linking more code |
-| Alternatives to monomorphization | Future | Offer a transparent mechanism for polymorphic compilation of generics |
 | Separate runtime machinery | Future | Split out bundled runtime such as the machinery for backtrace handling and formatting into their own libraries, to allow optionally dynamically linking to a different implementation if available |
 | More devirtualization | Future | Replace dyn traits with concrete types even outside of fat LTO to minimise code bloat, especially on embedded targets |
 | Better automatic outlining | Future | Explore options for function outlining, either through work on making LLVM's outliner usable in Rust or MIR-based outlining |
