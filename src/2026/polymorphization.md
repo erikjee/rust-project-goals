@@ -8,6 +8,7 @@
 | [compiler] champion | @camelid                                                           |
 | Tracking issue      | [rust-lang/goals#758]                                              |
 | Roadmap             | Fast Builds                                                        |
+| Roadmap             | Binary size reduction                                              |
 
 ## Summary
 
